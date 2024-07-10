@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikchhipa&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=kartikchhipa&theme=chartreuse-dark&no-frame=true" />
+
+
+
